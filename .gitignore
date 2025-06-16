@@ -1,0 +1,26 @@
+# Bytecode-Dateien
+__pycache__/
+*.py[cod]
+
+# Virtuelle Umgebung
+.venv/
+env/
+venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VS Code Einstellungen
+.vscode/
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
+
+# Temporäre Dateien
+*.log
+*.tmp
+
+# Persönliche Daten oder große Dateien
+*.csv
+!Umsatz.csv  # Nur diese CSV soll ins Repo, andere nicht
