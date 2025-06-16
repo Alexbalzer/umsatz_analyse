@@ -1,5 +1,5 @@
 
-# Abschlussprojekt
+# Umsatz Analyse Drogerie
 
 Dieses Repository enthält verschiedene Materialien und Ressourcen rund um das **Abschlussprojekt**.
 Hier findest du Code-Beispiele, Erklärungen und Dokumentationen zum Abschlussprojekt
